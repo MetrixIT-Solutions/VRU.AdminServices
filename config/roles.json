@@ -1,0 +1,32 @@
+[
+  {
+    "roleType": "Board",
+    "roleName": "Admin",
+    "roleCode": "BRDAD",
+    "sequence": 201
+  },
+  {
+    "roleType": "Entity",
+    "roleName": "Manager",
+    "roleCode": "EMNGR",
+    "sequence": 305
+  },
+  {
+    "roleType": "Entity",
+    "roleName": "Receptionist",
+    "roleCode": "ERTN",
+    "sequence": 311
+  },
+  {
+    "roleType": "Branch",
+    "roleName": "Manager",
+    "roleCode": "BMNGR",
+    "sequence": 405
+  },
+  {
+    "roleType": "Branch",
+    "roleName": "Receptionist",
+    "roleCode": "BRTN",
+    "sequence": 411
+  }
+]

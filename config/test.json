@@ -1,0 +1,44 @@
+{
+    "license": "Copyright (C) Skill Works IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skill Works IT <contact@skillworksit.com>, Jan 2023",
+    "mongoDBConnection": "mongodb://localhost:27017/swit_vrutest",
+
+    "fromMail": "noreply@vreserveu.com",
+    "fromMailPswd": "VRU@nrp25",
+    "mailServerHost": "smtp.hostinger.com",
+    "mailServerPort": 465,
+    "paymentsMail": "payments@vreserveu.com",
+    "tType": "Admin Token",
+    "jwtSecretKey": "VReserveU!&J*$D@^N-B2B|Test",
+    "criptoEncryptKey": "A!&J*$D@^N|Vru#HB2b#AK17223|Test",
+    "toMails": "ashok.s@skillwrk.com",
+    "fromAdrs": "\"No-Reply V Reserve U\" <noreply@vreserveu.com>",
+    "contactMail": "contactus@vreserveu.com",
+
+    "smsAuthKey": "404114ARxCfRfrTw0650ab89aP1",
+    "smsApi": "https://control.msg91.com/api/v5/flow/",
+    "confirmBkgTempId": "650ab91ad6fc05306a1ecd64",
+    "feedBcktempId": "650ab973d6fc0558f044fa32",
+    "smsShortUrl": "0",
+
+    "payuTestKey": "UpeVSOb1",
+    "payuTestSalt": "qGTJvtyPQX",
+    "payuTestAuthHeader": "R4sr9/S0qohk5P1r0ZpIKsGtqcbFAJ3rnMzoMGyPwPE=",
+    "payuProdKey": "",
+    "payuProdSalt": "",
+    "payuProdAuthHeader": "",
+
+    "lclPath": "files",
+    "awsAccessKey": "AKIAZEHQA5VLHXOHWBUI",
+    "awsSecretKey": "${AWS_SECRET_ACCESS_KEY}",
+    "awsRegion": "us-east-1",
+    "awsBucketName": "ctp.devtest",
+    "awsS3Bucket": "https://s3.us-east-1.amazonaws.com/ctp.devtest/",
+    "awsS3Cklst": "vru",
+
+    "atStr": "abcdefghijklmNOPQRSTUVWXYZnopqrstuvwxyzabcdefghijklmABCDEFGHIJKLMnopqrstuvwxyz",
+
+    "vruId": "VRUORGID100001",
+
+    "uiAdminDomain": "https://b2badt.vreserveu.com/#/",
+    "apiDomain": "https://b2badtapi.skillworksit.com/"
+}

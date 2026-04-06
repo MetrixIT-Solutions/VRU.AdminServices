@@ -1,0 +1,117 @@
+{
+    "appName": "V Reserve U (We Reserve You) - Admin API service",
+    "license": "Copyright (C) Skill Works IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skill Works IT <contact@skillworksit.com>, Jan 2023",
+    "mySalt": "86cf75841318f5137097f2157d9a9ea5",
+    "mySaltLen": 32,
+    "myCity": "Hyderabad",
+    "myState": "Telangana",
+    "myCountry": "India",
+
+    "logName": "VruAdminApiLogger",
+    "logFilesPath": "logs/vru.adminapi.log",
+    "logDtPattern": "YYMMDD",
+    "logFilesLevel": "debug",
+
+    "mobSessionExpireType": "days",
+    "mobSessionExpire": 365,
+    "webSessionExpireType": "days",
+    "webSessionExpire": 90,
+    "otpSessionExpireType": "minutes",
+    "otpSessionExpire": 10,
+
+    "pgcPercent": 3,
+    "roles": [
+        {
+            "roleType": "Board",
+            "roleName": "Call Agent",
+            "roleCode": "CLAGNT",
+            "sequence": 221
+        },
+        {
+            "roleType": "Entity",
+            "roleName": "Call Agent",
+            "roleCode": "CLAGNT",
+            "sequence": 321
+        },
+        {
+            "roleType": "Branch",
+            "roleName": "Call Agent",
+            "roleCode": "CLAGNT",
+            "sequence": 421
+        },
+        {
+            "roleType": "Entity",
+            "roleName": "Captain",
+            "roleCode": "CPTN",
+            "sequence": 331
+        },
+        {
+            "roleType": "Branch",
+            "roleName": "Captain",
+            "roleCode": "CPTN",
+            "sequence": 431
+        },
+        {
+            "roleType": "Entity",
+            "roleName": "Captain Executive",
+            "roleCode": "CPTNE",
+            "sequence": 335
+        },
+        {
+            "roleType": "Branch",
+            "roleName": "Captain Executive",
+            "roleCode": "CPTNE",
+            "sequence": 435
+        }
+    ],
+
+    "collAdminBranches": "vru_admin_branches",
+    "collAdminEntis": "vru_admin_entis",
+    "collAdminOrgs": "vru_admin_orgs",
+    "collAdminOrgsOnBoardings": "vru_admin_orgs_onbrds",
+    "collAdminOrgsOnBoardingsLcs": "vru_admin_orgs_onbrdslcs",
+    "collAdminUsers": "vru_admin_users",
+    "collAdUserRoles": "vru_aduser_roles",
+    "collAdUserRolesAccess": "vru_aduser_roles_access",
+    "collAdUserSsns": "vru_aduser_ssns",
+    "collAdUserSsnsClsd": "vru_aduser_ssns_clsd",
+    "collCustsCallLogs": "vru_custs_callogs",
+    "collCustsCallLogsClsd": "vru_custs_callogs_clsd",
+    "collCustsCateringSrvcs": "vru_custs_catering_srvcs",
+    "collCustsContacts": "vru_custs_contacts",
+    "collCustsContactsLcs": "vru_custs_contactslcs",
+    "collCustsFeedbacks": "vru_custs_feedbacks",
+    "collCustsFranchise": "vru_custs_franchise",
+    "collCustsOffers": "vru_custs_offers",
+    "collCustsOffersClsd": "vru_custs_offers_clsd",
+    "collCustsPrivateDining": "vru_custs_private_dining",
+    "collCustsPrivateDiningLcs": "vru_custs_private_dining_lcs",
+    "collCustsTableBlckdDts": "vru_custs_table_blckd_dts",
+    "collCustsTableBookings": "vru_custs_table_bokngs",
+    "collCustsTableBookingsAbsents": "vru_custs_table_bokngs_absnts",
+    "collCustsTableBookingsCanceled": "vru_custs_table_bokngs_cancld",
+    "collCustsTableBookingsClsd": "vru_custs_table_bokngs_clsd",
+    "collCustsTableBookingsConfirmed": "vru_custs_table_bokngs_cnfrmd",
+    "collCustsTableBookingsLcs": "vru_custs_table_bokngslcs",
+    "collCustsUsers": "vru_custs_users",
+    "collCustsUsersInfos": "vru_custs_users_infos",
+    "collFeedbackQuestions": "vru_feedback_qtns",
+    "collMailServers": "vru_mail_servers",
+    "collMailSettings": "vru_mail_settings",
+    "collRestaurantCategories": "vru_restaurant_categories",
+    "collRestaurantInfos": "vru_restaurant_infos",
+    "collRestaurantInfosClsd": "vru_restaurant_infos_clsd",
+    "collRestaurantMenu": "vru_restaurant_menu",
+    "collRestaurantPricings": "vru_restaurant_pricing",
+    "collSmsSettings": "vru_sms_settings",
+    "collCustsUsersGSI": "vru_custs_users_gsi",
+    "collCustsUsersGSIAns": "vru_custs_users_gsians",
+    "collCustsUsersGSIClsd": "vru_custs_users_gsiclsd",
+    "collChtbtQrs": "vru_chatbot_queries",
+    "collChtbtQrsLcs": "vru_chatbot_querieslcs",
+    "collDashboards": "vru_dashboards",
+    "collDashboardsClsd": "vru_dashboards_clsd",
+    "collDashboardsMnthly": "vru_dashboards_mnthly",
+    "collDashboardsYrly": "vru_dashboards_yrly"
+
+}

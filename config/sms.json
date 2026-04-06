@@ -1,0 +1,26 @@
+{
+  "MPBGCB": {
+    "confirmBkgTempId": "68b8375e343b8702e4526c13",
+    "otpTempId": "68b8300e1e71a508f027ad33",
+    "feedBcktempId": "68b95ffbafd77673671466f2",
+    "cancelledBkgTempId": "68b83c0b83106b3be53df083",
+    "rescheduleBkngTempId": "68b8437cfd745b4be8757704",
+    "fburl": "https://atmasterpiece.com/feedback.html"
+  },
+  "BBQHKNDPR": {
+    "confirmBkgTempId": "68b7e9899fd6114c3a132327",
+    "otpTempId": "68b8321f82dd8219dc5695d2",
+    "feedBcktempId": "68b955b4473cef440040c342",
+    "cancelledBkgTempId": "68b80043f8be4f7737037995",
+    "rescheduleBkngTempId": "68b80ba39fb22a2921430689",
+    "fburl": "https://barbequeholic.com/feedback.html"
+  },
+  "FSGKPHB": {
+    "confirmBkgTempId": "68b8343effe2be563228c8d2",
+    "otpTempId": "68b82d556f3667165e5aece2",
+    "feedBcktempId": "68b95d942503ff16f13cd922",
+    "cancelledBkgTempId": "68b83ac4300d1439d71b1396",
+    "rescheduleBkngTempId": "68b843014a9e756d5e6cdb3c",
+    "fburl": "https://firestonegrill.in/feedback.html"
+  }
+}

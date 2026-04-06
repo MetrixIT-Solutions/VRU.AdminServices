@@ -1,0 +1,152 @@
+{
+  "SWIT": [
+    {
+      "userRoles": "Superadmin",
+      "label": "Superadmin"
+    },
+    {
+      "userRoles": "Techadmin",
+      "label": "Techadmin"
+    }
+  ],
+  "Board": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Director",
+      "label": "Director"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Call Agent",
+      "label": "Call Agent"
+    }
+  ],
+  "Entity": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Director",
+      "label": "Director"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Call Agent",
+      "label": "Call Agent"
+    }
+  ],
+  "Waiter": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Executive",
+      "label": "Executive"
+    }
+  ],
+  "Branch": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Executive",
+      "label": "Executive"
+    },
+    {
+      "userRoles": "Waiter",
+      "label": "Waiter"
+    },
+    {
+      "userRoles": "Master Chef",
+      "label": "Master Chef"
+    },
+    {
+      "userRoles": "Head Chef",
+      "label": "Head Chef"
+    },
+    {
+      "userRoles": "Assistant Chef",
+      "label": "Assistant Chef"
+    },
+    {
+      "userRoles": "Call Agent",
+      "label": "Call Agent"
+    }
+  ],
+  "Chef": [
+    {
+      "userRoles": "Master Chef",
+      "label": "Master Chef"
+    },
+    {
+      "userRoles": "Head Chef",
+      "label": "Head Chef"
+    },
+    {
+      "userRoles": "Assistant Chef",
+      "label": "Assistant Chef"
+    }
+  ],
+  "Accounting": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Executive",
+      "label": "Executive"
+    }
+  ],
+  "Reception": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Executive",
+      "label": "Executive"
+    }
+  ],
+  "Support": [
+    {
+      "userRoles": "Admin",
+      "label": "Admin"
+    },
+    {
+      "userRoles": "Manager",
+      "label": "Manager"
+    },
+    {
+      "userRoles": "Executive",
+      "label": "Executive"
+    }
+  ]
+}
